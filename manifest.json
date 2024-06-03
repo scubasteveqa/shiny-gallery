@@ -1,7 +1,7 @@
 {
   "version": 1,
   "locale": "en_US",
-  "platform": "3.3.2",
+  "platform": "",
   "metadata": {
     "appmode": "shiny",
     "primary_rmd": null,
